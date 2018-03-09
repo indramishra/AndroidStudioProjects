@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rl1"
+    android:background="#8181ff"
+    android:gravity="center">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll1"
+        android:gravity="center"
+
+        android:background="#ffffff">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="b1"
+            android:layout_weight="1"
+            android:id="@+id/b1"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="b2"
+            android:id="@+id/b2"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll2"
+        android:layout_below="@+id/ll1"
+        android:background="#ffff00">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Show"
+        android:layout_below="@+id/b1"
+        android:onClick="Onshow"
+        android:layout_weight="1"
+        android:id="@+id/b3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:onClick="Onhide"
+        android:text="Hide"
+        android:id="@+id/b4"/>
+    </LinearLayout>
+</RelativeLayout>

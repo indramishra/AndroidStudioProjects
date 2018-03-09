@@ -1,0 +1,7 @@
+#Wed Sep 20 23:09:27 IST 2017
+base.0=C\:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c08afe0042139d2edaab9d58845d21e9711c0be3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f904df076115cff583b3fc7f4821f7d9563cbd9f\\classes.dex
+base.1=C\:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f904df076115cff583b3fc7f4821f7d9563cbd9f
+file.0=C\:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c08afe0042139d2edaab9d58845d21e9711c0be3\\classes.dex

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/r1"
+    android:background="#81c100">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/l1"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/top_left_btn"
+        android:text="B1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rightto_top_left"
+        android:layout_toRightOf="@+id/top_left_btn"
+        android:text="B2"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rightto_b2"
+        android:layout_toRightOf="@+id/rightto_top_left"
+        android:text="B2"/>
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="10dp"
+        android:orientation="vertical"
+        android:layout_marginTop="60dp"
+        android:background="#ffffa8"
+        android:id="@+id/l2"
+        >
+    <EditText
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_weight="10dp"
+        android:id="@+id/e1"
+
+        android:text="ertdf"/>
+        <EditText
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:id="@+id/e2"
+            android:text="hghgghg"/>
+        <EditText
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:id="@+id/e3"
+            android:text="hghgghg"/>
+    </LinearLayout>
+
+</RelativeLayout>

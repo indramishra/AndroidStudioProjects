@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffddff"
+    android:layout_margin="10dp"
+    android:padding="10dp">
+   <TableRow
+       android:gravity="center">
+       <Button
+           android:id="@+id/b1"
+           android:layout_weight="1"
+           android:layout_gravity="center"
+           android:text="B1"/>
+       <Button
+           android:id="@+id/b2"
+           android:layout_weight="1"
+           android:layout_gravity="center"
+           android:text="B2"/>
+       <Button
+           android:id="@+id/b3"
+           android:layout_weight="1"
+           android:layout_gravity="center"
+           android:text="B3"/>
+   </TableRow>
+    <TableRow
+        android:gravity="center">
+        <Button
+            android:id="@+id/b4"
+
+            android:layout_gravity="center"
+            android:text="B4"/>
+        <Button
+            android:id="@+id/b5"
+
+            android:layout_gravity="center"
+            android:text="B5"/>
+
+    </TableRow>
+</TableLayout>

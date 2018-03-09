@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#81C118"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:background="#ffffbb"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:hint="NAME"
+        android:textAlignment="center"
+        android:id="@+id/le1"/>
+
+    <EditText
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:background="#ffffbb"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:hint="MOBILE"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:id="@+id/le2"/>
+    <EditText
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:background="#ffffbb"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:hint="EMAIL"
+        android:inputType="textEmailAddress"
+        android:textAlignment="center"
+        android:id="@+id/le3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:text=" login"
+        android:onClick="onLogin"
+        android:id="@+id/lb1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="back"
+        android:id="@+id/lb2"/>
+</LinearLayout>
+

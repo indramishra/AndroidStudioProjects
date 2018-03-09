@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Think.pad\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Think.pad\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b7348a665a7e877387a8cfe048a2c4739230e521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Think.pad\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="698dceb1a2a137d06e2ed5f6486945a7b41a60c4">
+        <dex dex="C:\Users\Think.pad\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_005cfae9b4361362e6a22ecff45352c4e14763c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Think.pad\.android\build-cache\e18a3601952076d75488402b7267aff818b6947b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Think.pad\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aec7de9236d148fa41d758fef68ba27a7111f206\classes.dex" />
+    </item>
+
+</items>

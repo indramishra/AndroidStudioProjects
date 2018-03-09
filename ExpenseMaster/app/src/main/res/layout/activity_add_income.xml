@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/income"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Put income"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/income_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Source of income"
+        android:inputType="textPersonName"
+         />
+
+    <EditText
+        android:id="@+id/income_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="date"
+        android:hint="Date"/>
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="add"
+        android:id="@+id/add_income"
+        android:onClick="AddIncome"/>
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <ListView android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:id="@+id/listview">
+            </ListView>
+
+        </LinearLayout>
+
+
+</LinearLayout>

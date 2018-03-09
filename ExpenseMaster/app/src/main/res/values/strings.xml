@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExpenseMaster</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="context_choice"> When Category Taken</string>
+    <string-array name="context_names">
+        <item> Category </item>
+        <item> General </item>
+        <item> Food </item>
+        <item> Health </item>
+        <item> Fuel </item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Think.pad\\.android\\build-cache\\f7ac54111188e5c7da636d2c010bbec9b09f87db\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Think.pad\\.android\\build-cache\\f7ac54111188e5c7da636d2c010bbec9b09f87db\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Think.pad\\.android\\build-cache\\f7ac54111188e5c7da636d2c010bbec9b09f87db\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Think.pad\\.android\\build-cache\\f7ac54111188e5c7da636d2c010bbec9b09f87db\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Think.pad\\.android\\build-cache\\f7ac54111188e5c7da636d2c010bbec9b09f87db\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Think.pad\\AndroidStudioProjects\\XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Think.pad\\.android\\build-cache\\f7ac54111188e5c7da636d2c010bbec9b09f87db\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

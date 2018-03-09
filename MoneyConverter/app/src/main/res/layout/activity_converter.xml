@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFDCDD34"
+    android:id="@+id/tbl">
+    <TableRow android:layout_margin="20dp" >
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:id="@+id/e1"
+            android:textSize="20dp"
+            android:hint="Enter money in Rupees"
+            android:inputType="number"/>
+        <ImageButton
+            android:src="@mipmap/clear"
+            android:background="#0000aa"
+            android:id="@+id/ib1"
+            android:layout_gravity="right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </TableRow>
+    <TableRow >
+        <Button
+            android:id="@+id/dollar"
+            android:layout_weight="1"
+            android:text="dollar"
+            android:layout_gravity="center"
+            android:background="#FFDCDD34"
+            android:textSize="20dp"/>
+        <Button
+            android:id="@+id/euro"
+            android:layout_weight="1"
+            android:text="euro"
+            android:layout_gravity="center"
+            android:background="#FFDCDD34"
+            android:textSize="20dp"
+            />
+
+    </TableRow>
+    <TableRow android:gravity="center">
+        <Button
+            android:id="@+id/riyal"
+            android:layout_weight="1"
+            android:text="riyal"
+            android:background="#FFDCDD34"
+            android:textSize="20dp"/>
+        <Button
+            android:id="@+id/yen"
+            android:layout_weight="1"
+            android:text="yen"
+            android:background="#FFDCDD34"
+            android:textSize="20dp"/>
+
+
+    </TableRow>
+</TableLayout>
